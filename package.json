@@ -19,6 +19,7 @@
   "homepage": "https://github.com/Revandzy/discord-bot",
   "dependencies": {
     "nodemon": "^2.0.7",
-    "discord.js": "^12.5.3"
+    "discord.js": "^12.5.3",
+    "dotenv": "^9.0.2"
   }
 }
